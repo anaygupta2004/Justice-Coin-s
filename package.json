@@ -31,7 +31,7 @@
     "url": "git://github.com/thenewinquiry/bailbloc.git"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "battery-level": "^2.0.1",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.5",

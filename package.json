@@ -19,7 +19,7 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^3.0.0",
-    "electron-builder": "^19.22.1",
+    "electron-builder": "^23.6.0",
     "electron-installer-windows": "^3.0.0",
     "electron-packager": "^15.0.0",
     "electron-winstaller": "^4.0.1",
